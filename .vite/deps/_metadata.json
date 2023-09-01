@@ -1,0 +1,74 @@
+{
+  "hash": "321ce55a",
+  "browserHash": "6135a3c6",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "554c99e6",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "322487ba",
+      "needsInterop": true
+    },
+    "@react-three/fiber": {
+      "src": "../../node_modules/@react-three/fiber/dist/react-three-fiber.esm.js",
+      "file": "@react-three_fiber.js",
+      "fileHash": "d0e77f13",
+      "needsInterop": false
+    },
+    "framer-motion": {
+      "src": "../../node_modules/framer-motion/dist/es/index.mjs",
+      "file": "framer-motion.js",
+      "fileHash": "3e24aa55",
+      "needsInterop": false
+    },
+    "@react-three/drei": {
+      "src": "../../node_modules/@react-three/drei/index.js",
+      "file": "@react-three_drei.js",
+      "fileHash": "aacf2658",
+      "needsInterop": false
+    },
+    "valtio": {
+      "src": "../../node_modules/valtio/esm/index.mjs",
+      "file": "valtio.js",
+      "fileHash": "6e0258b3",
+      "needsInterop": false
+    },
+    "maath": {
+      "src": "../../node_modules/maath/dist/maath.esm.js",
+      "file": "maath.js",
+      "fileHash": "14871b74",
+      "needsInterop": false
+    },
+    "react-color": {
+      "src": "../../node_modules/react-color/es/index.js",
+      "file": "react-color.js",
+      "fileHash": "7290d548",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-WDFTZEMQ": {
+      "file": "chunk-WDFTZEMQ.js"
+    },
+    "chunk-JVKQ2HK5": {
+      "file": "chunk-JVKQ2HK5.js"
+    },
+    "chunk-WP5C4ZM4": {
+      "file": "chunk-WP5C4ZM4.js"
+    },
+    "chunk-TOA47ICV": {
+      "file": "chunk-TOA47ICV.js"
+    },
+    "chunk-FLAVOKRJ": {
+      "file": "chunk-FLAVOKRJ.js"
+    },
+    "chunk-AC2VUBZ6": {
+      "file": "chunk-AC2VUBZ6.js"
+    }
+  }
+}
